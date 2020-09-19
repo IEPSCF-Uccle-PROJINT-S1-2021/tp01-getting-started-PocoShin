@@ -9,23 +9,23 @@
 
 ## Nom
 
-Skywalker
+Malbrecq
 
 ## Prénom
 
-Luke
+Mathieu
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
+Je m'appelle Mathieu Malbrecq.
+Je suis étudiant en Informatique de Gestion à l'IEPSCF-Uccle.
 
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
+Mes principaux intérêts sont : l'informatique bien évidemment, tout ce qui touche de près ou de loin au Japon
+(culture traditionnelle, langue, mangas, animes, cosplay, musique...) ainsi que les jeux vidéos.
 
-J'ai hâte d'apprendre à programmer en JavaScript.
+J'ai hâte d'affiner et de développer mes compétences en JavaScript 
+en suivant le cours "Projet d'intégration de développement" de M.Roland.
+
+
